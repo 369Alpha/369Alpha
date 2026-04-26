@@ -8,6 +8,8 @@
 
 </div>
 
+-----
+
 **💻 A passionate Computer Science & Engineering student**  
 **🔐 Aspiring Cybersecurity Specialist**  
 **🚀 Tech Enthusiast with a strong interest in ethical hacking, AI, and real-world problem solving**  
