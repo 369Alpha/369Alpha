@@ -1,5 +1,5 @@
 ![Cover Image](banner.png)
-# 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Ashraful Islam Asif
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Ashraful Islam Asif
 
 💻 A passionate Computer Science & Engineering student  
 🔐 Aspiring Cybersecurity Specialist  
@@ -7,6 +7,7 @@
 
 🏢 I'm currently studying at the Department of CSE at IUBAT – International University of Business Agriculture and Technology
 
+-------
 
 🚀 About Me
 
