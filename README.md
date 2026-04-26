@@ -5,12 +5,13 @@
 
 
 🚀 About Me
-🔭 I’m currently working on **Web-based Applications and Security-focused Projects**
-🌱 I’m currently learning **Cybersecurity, Ethical Hacking, and Networking**
-👯 I’m looking to collaborate on **Cybersecurity Projects, Bug Bounty, and Ethical Hacking**
-🤔 I’m looking for help with **Penetration Testing and Advanced Security Concepts**
-💬 Ask me about **Programming Basics, Networking, and Beginner Cybersecurity**
-📫 Email: **[asifashraf4440@gmail.com](mailto:asifashraf4440@gmail.com)**,**[23303437@iubat.edu](mailto:23303437@iubat.edu)**
+- 🔭 I’m currently working on **Web-based Applications and Security-focused Projects**
+- 🌱 I’m currently learning **Cybersecurity, Ethical Hacking, and Networking**
+- 👯 I’m looking to collaborate on **Cybersecurity Projects, Bug Bounty, and Ethical Hacking**
+- 🤔 I’m looking for help with **Penetration Testing and Advanced Security Concepts**
+- 💬 Ask me about **Programming Basics, Networking, and Beginner Cybersecurity**
+- 📫 Email: **[asifashraf4440@gmail.com](mailto:asifashraf4440@gmail.com)**,
+**[23303437@iubat.edu](mailto:23303437@iubat.edu)**
 
 
 🛠️ Skills & Tools
