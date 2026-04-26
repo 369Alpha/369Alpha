@@ -1,8 +1,12 @@
 ![Cover Image](img.png)
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello, Welcome to my Profile
 -----
-<!-- HACKER STYLE TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=900&lines=Initializing+Cybersecurity+Mode...;CSE+Student+at+IUBAT+%F0%9F%8E%93;Ethical+Hacker+%7C+Bug+Bounty+Hunter+in+Progress+%F0%9F%94%90;AI%2FML+Spam+Detection+Research+%F0%9F%A4%96;Breaking+Systems+to+Build+Stronger+Security+%F0%9F%94%92" alt="Typing Animation" />
+<!-- ULTRA CYBER HACKER TYPING SVG -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=00FF41&background=000000&center=true&vCenter=true&width=900&lines=Booting+Cybersecurity+Environment...;CSE+Student+at+IUBAT+%F0%9F%8E%93;Ethical+Hacker+%7C+Bug+Bounty+Hunter+%F0%9F%94%90;Analyzing+Systems+%7C+Finding+Vulnerabilities+%F0%9F%94%8D;Securing+the+Digital+World+One+System+at+a+Time+%F0%9F%94%92" alt="Typing Animation" />
+
+</div>
 
 **💻 A passionate Computer Science & Engineering student**  
 **🔐 Aspiring Cybersecurity Specialist**  
