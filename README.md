@@ -21,6 +21,7 @@
   🎓 [23303437@iubat.edu](mailto:23303437@iubat.edu)
 
 
+
 🛠️ Skills & Tools
 
 💻 Languages:
@@ -42,6 +43,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
 
+
 📈 Current Goals
 
 - 🎯 Advance expertise in **Ethical Hacking, Penetration Testing, and Bug Bounty Hunting** 🔐💻
@@ -52,9 +54,12 @@
 - 📚 Continuously enhance **problem-solving, coding, and defensive security skills** 🧠⚔️
 
 
+
+
 🧠 Fun Fact
 
 👉 I don’t just use systems... I break them, analyze them, and rebuild them stronger — all in the name of cybersecurity 😈🔐
+
 
 
 
