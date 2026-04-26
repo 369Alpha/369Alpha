@@ -1,11 +1,11 @@
 ![Cover Image](banner.png)
-# 👋 Hi, I'm Ashraful Islam Asif
+# 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Ashraful Islam Asif
 
-**💻 A passionate Computer Science & Engineering student  
+💻 A passionate Computer Science & Engineering student  
 🔐 Aspiring Cybersecurity Specialist  
 🚀 Tech Enthusiast with a strong interest in ethical hacking, AI, and real-world problem solving  
 
-🏢 I'm currently studying at the Department of CSE at IUBAT – International University of Business Agriculture and Technology**
+🏢 I'm currently studying at the Department of CSE at IUBAT – International University of Business Agriculture and Technology
 
 
 🚀 About Me
@@ -58,7 +58,7 @@
 
 🧠 Fun Fact
 
-👉** I don’t just use systems... I break them, analyze them, and rebuild them stronger — all in the name of cybersecurity **😈🔐
+👉I don’t just use systems... I break them, analyze them, and rebuild them stronger — all in the name of cybersecurity 😈🔐
 
 
 
