@@ -36,9 +36,9 @@
 
 📈 Current Goals
 
-Learn **Ethical Hacking & Bug Bounty Hunting**
-Master **Networking & Security Concepts**
-Build **Real-world Security Projects**
+- Learn **Ethical Hacking & Bug Bounty Hunting**
+- Master **Networking & Security Concepts**
+- Build **Real-world Security Projects**
 
 
 
