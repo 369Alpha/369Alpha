@@ -1,4 +1,4 @@
-![Cover Image](https://github.com/369Alpha/369Alpha/commit/562b85d636e57548cdb62b3b2196108b66afa0de#diff-82b938b9c169756baa99a1e4dc81b3d074680a1d786afc536624b08534749166)
+![Cover Image](banner.png)
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Ashraful Islam Asif
 
 **💻 A passionate Computer Science & Engineering student**  
