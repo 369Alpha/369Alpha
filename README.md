@@ -61,26 +61,20 @@
 👉I don’t just use systems... I break them, analyze them, and rebuild them stronger — all in the name of cybersecurity 😈🔐
 
 -------
-
-📊 GitHub Stats
-
-![Asif's GitHub statistics](https://github-readme-stats.vercel.app/api?username=369Alpha\&show_icons=true\&theme=tokyonight)
-
-
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/raisa000">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raisa000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raisa000&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/369Alpha">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=369Alpha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=369Alpha&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-<h3 align="center">📊 Statistics 📊</h3>
+### 📊 Statistics
 
-<h3 align="center">
- <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=raisa000&theme=light&background=FD2D2D00&hide_border=true&currStreakNum=DD0000&sideLabels=DD2727&sideNums=1CDDAD" alt="raisa000"/>
-</h3>
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=369Alpha&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 
 
