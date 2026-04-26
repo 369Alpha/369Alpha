@@ -1,11 +1,13 @@
 ![Cover Image](banner.png)
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Ashraful Islam Asif
 
-💻 A passionate Computer Science & Engineering student  
-🔐 Aspiring Cybersecurity Specialist  
-🚀 Tech Enthusiast with a strong interest in ethical hacking, AI, and real-world problem solving  
+# 👋 Hi, I'm Ashraful Islam Asif
 
-🏢 I'm currently studying at the Department of CSE at IUBAT – International University of Business Agriculture and Technology
+**💻 A passionate Computer Science & Engineering student**  
+**🔐 Aspiring Cybersecurity Specialist**  
+**🚀 Tech Enthusiast with a strong interest in ethical hacking, AI, and real-world problem solving**  
+
+**🏢 I'm currently studying at the Department of CSE at IUBAT – International University of Business Agriculture and Technology**
 
 -------
 
@@ -21,7 +23,7 @@
   ✉️ [asifashraf4440@gmail.com](mailto:asifashraf4440@gmail.com)  
   🎓 [23303437@iubat.edu](mailto:23303437@iubat.edu)
 
-
+-------
 
 🛠️ Skills & Tools
 
@@ -43,7 +45,7 @@
 ⚙️ Tools:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
-
+-------
 
 📈 Current Goals
 
@@ -54,15 +56,13 @@
 - 🚀 Actively contribute to **open-source cybersecurity and development projects** 🌍💡
 - 📚 Continuously enhance **problem-solving, coding, and defensive security skills** 🧠⚔️
 
-
-
+-------
 
 🧠 Fun Fact
 
 👉I don’t just use systems... I break them, analyze them, and rebuild them stronger — all in the name of cybersecurity 😈🔐
 
-
-
+-------
 
 📊 GitHub Stats
 
