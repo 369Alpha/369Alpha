@@ -2,7 +2,6 @@
 
 💻 CSE Student | 🔐 Future Cybersecurity Specialist | 🚀 Tech Enthusiast
 
----
 
 ## 🚀 About Me
 
@@ -12,8 +11,9 @@
 * 🤔 I’m looking for help with **Penetration Testing and Advanced Security Concepts**
 * 💬 Ask me about **Programming Basics, Networking, and Beginner Cybersecurity**
 * 📫 Email: **[asifashraf4440@gmail.com](mailto:asifashraf4440@gmail.com)**
+             **[23303437@iubat.edu](mailto:23303437@iubat.edu)**
 
----
+
 
 ## 🛠️ Skills & Tools
 
@@ -22,7 +22,7 @@
 * 🔐 Security: **Basic Networking, Security Fundamentals**
 * ⚙️ Tools: **Git, GitHub, VS Code**
 
----
+
 
 ## 📈 Current Goals
 
@@ -30,20 +30,18 @@
 * Master **Networking & Security Concepts**
 * Build **Real-world Security Projects**
 
----
+
 
 ## ⚡ Fun Fact
 
 👉 I break systems to understand how to secure them 😄
 
----
+
 
 ## 📊 GitHub Stats
 
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=369Alpha\&show_icons=true\&theme=tokyonight)
+![Asif's GitHub statistics](https://github-readme-stats.vercel.app/api?username=369Alpha\&show_icons=true\&theme=tokyonight)
 
----
 
-## 🔥 Let's Connect
 
-* 📧 Email: **[asifashraf4440@gmail.com](mailto:asifashraf4440@gmail.com)**
+
