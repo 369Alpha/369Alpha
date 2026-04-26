@@ -1,17 +1,24 @@
 ![Cover Image](banner.png)
 # 👋 Hi, I'm Ashraful Islam Asif
 
-💻A passionate CSE Student | 🔐 Future Cybersecurity Specialist | 🚀 Tech Enthusiast
+💻 A passionate Computer Science & Engineering student  
+🔐 Aspiring Cybersecurity Specialist  
+🚀 Tech Enthusiast with a strong interest in ethical hacking, AI, and real-world problem solving  
+
+🏢 I'm currently studying at the Department of CSE at IUBAT – International University of Business Agriculture and Technology
 
 
 🚀 About Me
-- 🔭 I’m currently working on **Web-based Applications and Security-focused Projects**
-- 🌱 I’m currently learning **Cybersecurity, Ethical Hacking, and Networking**
-- 👯 I’m looking to collaborate on **Cybersecurity Projects, Bug Bounty, and Ethical Hacking**
-- 🤔 I’m looking for help with **Penetration Testing and Advanced Security Concepts**
-- 💬 Ask me about **Programming Basics, Networking, and Beginner Cybersecurity**
-- 📫 Email: **[asifashraf4440@gmail.com](mailto:asifashraf4440@gmail.com)**,
-**[23303437@iubat.edu](mailto:23303437@iubat.edu)**
+
+- 🔭 Currently working on **web-based applications and security-focused projects** 💻🔐  
+- 🌱 Actively learning **Cybersecurity, Ethical Hacking, Computer Networking, and AI/ML applications** 🌐🤖  
+- 🧠 Working on a **research project in Spam Detection using Artificial Intelligence and Machine Learning** 📊📧  
+- 👯 Looking to collaborate on **cybersecurity projects, bug bounty programs, and ethical hacking initiatives** 🤝💡  
+- 🤔 Seeking guidance in **penetration testing and advanced security concepts** ⚔️🛡️  
+- 💬 Ask me about **programming fundamentals, networking, cybersecurity basics, and AI/ML ideas** 💻📡  
+- 📫 Reach me at:  
+  ✉️ [asifashraf4440@gmail.com](mailto:asifashraf4440@gmail.com)  
+  🎓 [23303437@iubat.edu](mailto:23303437@iubat.edu)
 
 
 🛠️ Skills & Tools
@@ -37,15 +44,17 @@
 
 📈 Current Goals
 
-- Learn **Ethical Hacking & Bug Bounty Hunting**
-- Master **Networking & Security Concepts**
-- Build **Real-world Security Projects**
+- 🎯 Advance expertise in **Ethical Hacking, Penetration Testing, and Bug Bounty Hunting** 🔐💻
+- 🌐 Build a strong foundation in **Networking, System Security, and Protocol Analysis** 📡🛡️
+- 🛡️ Develop and implement **real-world cybersecurity projects and secure systems** ⚙️🔒
+- 🔍 Gain practical experience with **security tools, vulnerability assessment, and threat analysis** 🧰📊
+- 🚀 Actively contribute to **open-source cybersecurity and development projects** 🌍💡
+- 📚 Continuously enhance **problem-solving, coding, and defensive security skills** 🧠⚔️
 
 
+🧠 Fun Fact
 
-Fun Fact
-
-👉 I break systems to understand how to secure them 😄
+👉 I don’t just use systems... I break them, analyze them, and rebuild them stronger — all in the name of cybersecurity 😈🔐
 
 
 
