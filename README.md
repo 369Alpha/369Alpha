@@ -1,4 +1,4 @@
-![Cover Image](banner.png)
+![Cover Image](ChatGPT Image Apr 27, 2026, 12_38_18 AM.png)
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Ashraful Islam Asif
 
 **💻 A passionate Computer Science & Engineering student**  
