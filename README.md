@@ -1,8 +1,6 @@
 ![Cover Image](banner.png)
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Ashraful Islam Asif
 
-# 👋 Hi, I'm Ashraful Islam Asif
-
 **💻 A passionate Computer Science & Engineering student**  
 **🔐 Aspiring Cybersecurity Specialist**  
 **🚀 Tech Enthusiast with a strong interest in ethical hacking, AI, and real-world problem solving**  
