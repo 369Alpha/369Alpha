@@ -1,5 +1,8 @@
 ![Cover Image](img.png)
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Ashraful Islam Asif
+-----
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&duration=3500&pause=1000&color=00FF00&vCenter=true&width=900&lines=I+build+automation+systems+that+generate+leads+and+content+on+autopilot;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Python" alt="Typing Animation" />
 
 **💻 A passionate Computer Science & Engineering student**  
 **🔐 Aspiring Cybersecurity Specialist**  
